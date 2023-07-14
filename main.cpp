@@ -7,7 +7,7 @@ using namespace std;
 
 
 
-int main() {
+int main() { //Només per fer proves de les classes que tinc
     Baralla baralla;
     Jugador jugador("Joan");
     baralla.inicialitza_baralla();
