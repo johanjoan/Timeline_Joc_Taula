@@ -1,13 +1,110 @@
-    1711 1 "Fundació de la Biblioteca nacional d'Espanya"
-    1953 1 "Primera ascensió al Everest"
-    64 1 "Gran Incendi de Roma"
-    1937 1 "Bombardeig de Guernica"
-    1939 1 "Comença la Segona Guerra Mundial"
-    1930 1 "Primera Copa Mundial de la FIFA"
-    1158 1 "Fundació de l'Ordre de Calatrava"
-    1969 1 "Festival de Woodstock"
-    1982 1 "Espanya passa a formar part de la OTAN"
-    1914 1 "Platero y yo"
-    1975 1 "Mort de Franco"
-    2017 1 "Mort de Chiquito de la Calzada"
-    1963 1 "Assesinat de Kenedy"
+1906    1   Primer Científic espanyol en guanyar un premi Nobel (Santiago Ramón y Cajal)
+1888    1   Invenció del primer submarí elèctric (Isaac Peral)
+1953    1   Bienvenido Mister Marshall (Luis Garcia Berlanga)
+1955    1   Rosa Parks es nega a cedir el seu seient a l'autobus
+1707    1   Erupció del mont Fuji
+1848    1   Comença la febre de l'or a California
+1126    1   Naixement d'Averroes
+2002    1   Desastre ecològic del Prestige
+1128    1   Primera correguda de toros coneguda a Espanya
+79      1   Destrucció de Pompeia
+1986    1   Catàstrofe de Txernòbil
+1099    1   Mort de Rodrigo Díaz de Vivar, El Cid
+722     1   Batalla de Covadonga
+1803    1   Compra de Louisana pels Estats Units
+1998    1   Llançament del videojoc espanyol "Commandos"
+844     1   Primera incursió vikinga a la Península Ibèrica
+929     1   Abderraman III es proclama Califa d'Al-Andalus
+-73     1   Revolta d'Espàrtac
+1842    1   Primera dona universitària a Espanya (Concepción Arenal)
+1492    1   La gramàtica Castellana
+1653    1   Finalització del Taj Mahal
+1766    1   Motí d'Esquilache
+1931    1   Primera dona ministra a Espanya (Federica Montseny)
+1212    1   Batalla de Las Navas de Tolosa
+1785    1   Primera travessia del Canal de la Mànega en globus
+1861    1   S'inicia la Guerra Civil americana
+1843    1   Coronació d'Isabel II d'Espanya
+1666    1   Gran incendi de Londres
+-1250   1   Guerra de Troia
+-133    1   Setge de Numància
+1230    1   Unió de les corones de Castella i de Lleó
+1912    1   Enfonsament del Titanic
+1620    1   Arribada del Mayflower a Amèrica
+1996    1   Dolly, primer mamífer clonat
+2019    1   Mort d'Eduard Punset
+1989    1   Caiguda del Mur de Berlín
+1970    1   Primer Oscar guanyat per un espanyol (Juan de la Cierva y Hoces)
+1969    1   Primer home a trepitjar la lluna (Neil Armstrong)
+1938    1   Primera aparició d'un superheroi (Jerry Siegel i Joe Shuster)
+1522    1   Primera circumnavegació de la Terra (Magallanes)
+1346    1   La Pesta Negra comença a extendre's per Europa
+1990    1   Comença la Primera Guerra del Golf
+1873    1   Proclamació de la Primera República Espanyola
+1682    1   Mort de Pedro Calderón de la Barca
+1988    1   Primera base antàrtica espanyola
+1983    1   Espanya guanya a Malta 12-1
+411     1   Inici de les invasions germànica d'Hispana
+-600    1   Comença la construcció de la Gran Muralla Xinesa
+1776    1   Declaració d'Independència dels Estats Units
+711     1   Inici de la conquesta musulmana
+1997    1   Primera publicació de Harry Potter
+2011    1   Moviment 15-M
+1927    1   Primera travessia en solitari de l'Atlàntic en avió (Charles Lindbergh)
+1963    1   "Tinc un somni" (Martin Luther King)
+1969    1   Espanya guanya Eurovisió amb "Vivo cantando" (Salomé)
+1947    1   Comença la Guerra Freda
+1700    1   Inici de la monarquia borbònica
+1929    1   "Un perro andaluz" (Luís Buñuel)
+1922    1   S'inicia la construcció de Las Ventas
+1963    1   Assassinat de JFK
+2017    1   Mort de Chiquito de la Calzada
+1975    1   Mort de Franco
+1914    1   Platero y yo (Juan Ramón Jiménez)
+1982    1   Espanya passa a formar part de la OTAN
+1969    1   Festival de Woodstock
+1158    1   Fundació de la "Orden de Calatrava"
+1930    1   Primera Copa Mundial de la FIFA
+1939    1   Comença la Segona Guerra Mundial
+1937    1   Guernica
+64      1   Gran Incendi de Roma (Neró)
+1953    1   Primera ascensió a l'Everest (Edmund Hillary i Tenzing Norgay)
+1711    1   Fundació de la Biblioteca nacional d'Espanya
+1865    1   L'esclavitud és abolida als Estats Units
+1836    1   Batalla d'El Álamo
+1789    1   Declaració dels Drets de l'home i del Ciutadà
+1505    1   Fundació de la Universitat de Sevilla
+1119    1   Fundació de l'Ordre del Temple (Hugues de Payns)
+786     1   Inici de la construcció de la Mesquita de Córdoba
+-44     1   Juli Cèsar és nomenat dictador vitalici
+-1100   1   Fundació de Gadir
+1562    1   Naixement de Lope de Vega Carpio
+1221    1   Inici de la construcció de la Catedral de Burgos
+1516    1   Inici de la monarquia dels Àustries
+1848    1   Línia ferroviària Barcelona-Mataró
+1856    1   Primer "encierro" de San Fermín pel carrer Estafeta
+1337    1   Comença la Guerra dels Cent Anys
+1804    1   Napoleò es converteix en emperador
+1605    1   Primera edició del Quixot
+1860    1   El Pony Express comença a funcionar
+1335    1   El Conde Lucanor (Don Juan Manuel)
+1885    1   Construcció del primer gratacel del món (William Le Baron Jenney)
+1929    1   Dijous Negre (Crack de Wall Street)
+1789    1   Motí de la Bounty
+1880    1   Invenció del futbolí
+1656    1   Las meninas (Diego Velàzquez)
+1938    1   Batalla de l'Ebre
+1951    1   Primer partit All-Star de l'NBA
+2001    1   Atac a les Torres Bessones
+1981    1   Intent de cop d'estat de Tejero
+1996    1   Kaspàrov és derrotat per Deep Blue
+-230000000  1   Aparició dels dinosaures
+-65000000   1   Extinció dels dinosaures
+789     1   Primera incursió vikinga
+1095    1   Comença la Primera Croada
+1231    1   Establiment de la Inquisició Papal (Papa Gregori IX)
+1325    1   Fundació de Mèxic-Tenochtitlán
+1402    1   Inici de la conquesta de les Illes Canàries
+1990    1   Alliberació de Nelson Mandela
+1914    1   Comença la Primera Guerra Mundial
+1964    1   Primera campanya d'excavació de la cova d'Atapuerca

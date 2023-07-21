@@ -11,12 +11,12 @@ using namespace std;
 
 
 int main() { //Només per fer proves de les classes que tinc
-    // srand (time(NULL));
 
     escriu_pagina_inicial();
     bool jugar = true;
     
     while (jugar) {
+        srand (time(NULL));
         system("clear");
         int mode = selecciona_mode_joc();
 

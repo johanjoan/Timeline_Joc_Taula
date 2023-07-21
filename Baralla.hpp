@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 #include <cstdlib>
+#include <fstream>
 #include "Carta.hpp"
 using namespace std;
 
@@ -11,7 +12,7 @@ using namespace std;
 
 class Baralla {
     private:
-        int num_cartes = 13;
+        int num_cartes = 0;
         vector<Carta> cartes = vector<Carta>(num_cartes);
     public:
 

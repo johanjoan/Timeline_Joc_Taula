@@ -76,7 +76,7 @@ void Individual::juga_carta(int id_carta,int pos) {
             getchar();
             return;
         }
-        jugador.elimina_carta(pos);
+        jugador.elimina_carta(id_carta);
         jugador.set_fallos(jugador.get_fallos()+1);
         jugador.roba_cartes(1,baralla);
         text_carta_robada(jugador.get_nom(), jugador.get_ma()[jugador.get_ma().size()-1].get_descripcio());
@@ -116,6 +116,7 @@ void Individual::juga_partida() {
         else if (accio == 3) {
             int id_carta = text_jugar_carta_id(jugador.get_ma().size());
             int pos = text_jugar_carta_pos(taula.get_num_cartes());
+            system("clear");
             juga_carta(id_carta-1,pos-1);
             jugador.set_torns_jugats(jugador.get_torns()+1);
         }
