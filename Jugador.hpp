@@ -14,7 +14,7 @@ class Jugador {
         string nom = "";
         vector<Carta> ma;
     public:
-
+        Jugador();
         Jugador(string nom);
         ~Jugador();
 
@@ -31,5 +31,6 @@ class Jugador {
 
         void roba_cartes(int n,Baralla& b);
         void elimina_carta(int pos); //Elimina la carta en la posició "pos" de la mà del jugador
+        void escriu_ma();
 };
 #endif
