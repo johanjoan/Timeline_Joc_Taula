@@ -6,7 +6,7 @@ joc.exe: Baralla.o Carta.o main.cpp main.o Jugador.o Taula.o Individual.o Textos
 main.o: main.cpp
 	g++ -Wall -O2 -std=c++11 -c main.cpp
 
-Baralla.o: Baralla.cpp
+Baralla.o: Baralla.cpp Info_Cartes.txt
 	g++ -Wall -O2 -std=c++11  -c Baralla.cpp
 
 Carta.o: Carta.cpp
